@@ -36,7 +36,9 @@ Essentially, the motherboard is a piece of computer ***hardware*** that is made 
 This is different from ***software***, which are computer parts you cannot see or touch that give instructions to hardware (e.g. computer programs and apps). 
 (https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/#:~:text=Hardware%20is%20any%20element%20of,and%20apps%20on%20your%20phone.)
 
-add purpose of motherboard
+### How do other hardware components connect to the motherboard?
+
+get info from article describing slots / sockets / etc.
 
 ## Motherboard components
 
@@ -55,9 +57,11 @@ add brief description regarding components.
 
 > The central processing unit (CPU), also called a processor, is located inside the computer case on the motherboard. It is sometimes called the brain of the computer, and its job is to carry out commands.
 
-add info about CPU
+#### How does this connect to the motherboard?
 
-### Random Access Memory (RAM) slots
+Specify slot / socket / etc.
+
+### Random Access Memory (RAM)
 
 ![RAM](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_RAM-02.jpg "RAM")
 
@@ -65,7 +69,9 @@ add info about CPU
 
 > RAM is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until it is needed.
 
-add info about RAM
+#### How does this connect to the motherboard?
+
+Specify slot / socket / etc.
 
 ## References
 

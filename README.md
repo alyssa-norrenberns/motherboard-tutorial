@@ -14,8 +14,8 @@ What is a motherboard?
 1. What is hardware?
 
 Motherboard components
-1. Central Processing Unit (CPU) chip
-2. Random Access Memory (RAM) slots
+1. Central Processing Unit (CPU)
+2. Random Access Memory (RAM) 
 3. TBD
 
 ## What is a motherboard?
@@ -24,7 +24,8 @@ Motherboard components
 
 *Pictured above: Dell Precision T3600 System Motherboard*
 
-> The motherboard serves as a single platform to connect all of the parts of a computer together. It connects the CPU, memory, hard drives, optical drives, video card, sound card, and other ports and expansion cards directly or via cables. It can be considered as the backbone of a computer.
+> The motherboard is the computer's main circuit board. It's a thin plate that holds the CPU, memory, connectors for the hard drive and optical drives, expansion cards to control the video and audio, and connections to your computer's ports (such as USB ports). The motherboard connects directly or indirectly to every part of the computer.
+(https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/)
 
 Essentially, the motherboard is a piece of computer ***hardware*** that is made to hold and connect other computer hardware componenets. 
 
@@ -42,20 +43,33 @@ add purpose of motherboard
 add brief description regarding components.
 
 **This tutorial will cover the following components:**
-1. Central Processing Unit (CPU) chip
-2. Random Access Memory (RAM) slots
+1. Central Processing Unit (CPU) 
+2. Random Access Memory (RAM) 
 3. TBD
 
-### Central Processing Unit (CPU) chip
+### Central Processing Unit (CPU)
+
+![CPU](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_CPU-02.jpg "CPU")
+
+*Pictured above: Sketch depiction of a CPU*
+
+> The central processing unit (CPU), also called a processor, is located inside the computer case on the motherboard. It is sometimes called the brain of the computer, and its job is to carry out commands.
 
 add info about CPU
 
 ### Random Access Memory (RAM) slots
 
+![RAM](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_RAM-02.jpg "RAM")
+
+*Pictured above: Sketch depiction of RAM*
+
+> RAM is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until it is needed.
+
 add info about RAM
 
 ## References
 
+- https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/ (used for pics + block quotes)
 - https://www.tutorialspoint.com/computer_fundamentals/computer_motherboard.htm
 - https://www.partitionwizard.com/partitionmanager/motherboard-components.html
 - https://www.makeuseof.com/tag/short-guide-motherboard-parts/

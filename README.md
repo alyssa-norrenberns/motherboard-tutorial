@@ -26,3 +26,8 @@ add info about CPU
 ### Random Access Memory (RAM)
 
 add info about RAM
+
+## References
+
+- https://www.tutorialspoint.com/computer_fundamentals/computer_motherboard.htm
+- https://www.partitionwizard.com/partitionmanager/motherboard-components.html

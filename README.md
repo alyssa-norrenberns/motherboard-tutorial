@@ -9,8 +9,14 @@ Tutorial by Alyssa Norrenberns
 ## Table of Contents
 
 create links to section headings / subheadings
+
 What is a motherboard?
-1. 
+1. What is hardware?
+
+Motherboard components
+1. Central Processing Unit (CPU) chip
+2. Random Access Memory (RAM) slots
+3. TBD
 
 ## What is a motherboard?
 
@@ -20,9 +26,11 @@ What is a motherboard?
 
 > The motherboard serves as a single platform to connect all of the parts of a computer together. It connects the CPU, memory, hard drives, optical drives, video card, sound card, and other ports and expansion cards directly or via cables. It can be considered as the backbone of a computer.
 
-Essentially, the motherboard is a piece of computer ***hardware*** that is made to hold other computer hardware componenets. 
+Essentially, the motherboard is a piece of computer ***hardware*** that is made to hold and connect other computer hardware componenets. 
 
-**What is hardware?** Hardware is a term for physical, tangible computer parts, such as keyboards and hard drives. This is different from *software*, which are computer parts you cannot see or touch that give instructions to hardware (e.g. computer programs and apps). 
+### What is hardware?
+
+*Hardware* is a term for physical, tangible computer parts, such as keyboards and hard drives. This is different from *software*, which are computer parts you cannot see or touch that give instructions to hardware (e.g. computer programs and apps). 
 (https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/#:~:text=Hardware%20is%20any%20element%20of,and%20apps%20on%20your%20phone.)
 
 add purpose of motherboard
@@ -32,15 +40,15 @@ add purpose of motherboard
 add brief description regarding components.
 
 **This tutorial will cover the following components:**
-1. Central Processing Unit (CPU)
-2. Random Access Memory (RAM)
+1. Central Processing Unit (CPU) chip
+2. Random Access Memory (RAM) slots
 3. TBD
 
-### Central Processing Unit (CPU)
+### Central Processing Unit (CPU) chip
 
 add info about CPU
 
-### Random Access Memory (RAM)
+### Random Access Memory (RAM) slots
 
 add info about RAM
 

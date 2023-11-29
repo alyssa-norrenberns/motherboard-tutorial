@@ -37,4 +37,7 @@ add info about RAM
 
 - https://www.tutorialspoint.com/computer_fundamentals/computer_motherboard.htm
 - https://www.partitionwizard.com/partitionmanager/motherboard-components.html
+- https://www.makeuseof.com/tag/short-guide-motherboard-parts/
+- https://www.tutorialsweb.com/computers/pc-motherboard.htm
+- https://turbofuture.com/computers/the-motherboard-components
 - https://en.wikipedia.org/wiki/Motherboard

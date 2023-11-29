@@ -12,7 +12,9 @@ Tutorial by Alyssa Norrenberns
 
 *Pictured above: Dell Precision T3600 System Motherboard*
 
-add definition
+> The motherboard serves as a single platform to connect all of the parts of a computer together. It connects the CPU, memory, hard drives, optical drives, video card, sound card, and other ports and expansion cards directly or via cables. It can be considered as the backbone of a computer.
+
+add purpose of motherboard
 
 ## Motherboard components
 
@@ -35,3 +37,4 @@ add info about RAM
 
 - https://www.tutorialspoint.com/computer_fundamentals/computer_motherboard.htm
 - https://www.partitionwizard.com/partitionmanager/motherboard-components.html
+- https://en.wikipedia.org/wiki/Motherboard

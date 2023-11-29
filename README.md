@@ -8,7 +8,11 @@ Tutorial by Alyssa Norrenberns
 
 ## What is a motherboard?
 
-add definition + image
+![Dell Precision T3600 System Motherboard](https://upload.wikimedia.org/wikipedia/commons/b/b7/Computer-motherboard.jpg "Motherboard")
+
+*Pictured above: Dell Precision T3600 System Motherboard*
+
+add definition
 
 ## Motherboard components
 

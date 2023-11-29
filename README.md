@@ -30,7 +30,8 @@ Essentially, the motherboard is a piece of computer ***hardware*** that is made 
 
 ### What is hardware?
 
-***Hardware*** is a term for physical, tangible computer parts, such as keyboards and hard drives. This is different from ***software***, which are computer parts you cannot see or touch that give instructions to hardware (e.g. computer programs and apps). 
+***Hardware*** is a term for physical, tangible computer parts, such as keyboards and hard drives.   
+This is different from ***software***, which are computer parts you cannot see or touch that give instructions to hardware (e.g. computer programs and apps). 
 (https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/#:~:text=Hardware%20is%20any%20element%20of,and%20apps%20on%20your%20phone.)
 
 add purpose of motherboard

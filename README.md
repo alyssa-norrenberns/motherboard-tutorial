@@ -10,14 +10,14 @@ Tutorial by Alyssa Norrenberns
 
 create links to section headings / subheadings
 
-1. What is a motherboard?
-  a. What is hardware?
-  b. How do other hardware components connect to the motherboard?
+What is a motherboard?
+1. What is hardware?
+2. How do other hardware components connect to the motherboard?
 
-2. Motherboard components
-  a. Central Processing Unit (CPU)
-  b. Random Access Memory (RAM)
-  c. TBD
+Motherboard components
+1. Central Processing Unit (CPU)
+2. Random Access Memory (RAM)
+3. TBD
 
 ## What is a motherboard?
 

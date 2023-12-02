@@ -25,15 +25,13 @@ Motherboard components
 
 *Pictured above: Dell Precision T3600 System Motherboard*
 
-> The motherboard is the computer's main circuit board. It's a thin plate that holds the CPU, memory, connectors for the hard drive and optical drives, expansion cards to control the video and audio, and connections to your computer's ports (such as USB ports). The motherboard connects directly or indirectly to every part of the computer[^1].
+> The motherboard is the computer's main circuit board. It's a thin plate that holds the CPU, memory, connectors for the hard drive and optical drives, expansion cards to control the video and audio, and connections to your computer's ports (such as USB ports). The motherboard connects directly or indirectly to every part of the computer.[^1]
 
-Essentially, the motherboard is a piece of computer ***hardware*** that is made to hold and connect other computer hardware componenets[^1]. 
+Essentially, the motherboard is a piece of computer ***hardware*** that is made to hold and connect other computer hardware componenets.[^1] 
 
 ### What is hardware?
 
-***Hardware*** is a term for physical, tangible computer parts, such as keyboards and hard drives.   
-
-This is different from ***software***, which are computer parts you cannot see or touch that give instructions to hardware (e.g. computer programs and apps) [^2].
+***Hardware*** is a term for physical, tangible computer parts, such as keyboards and hard drives. This is different from ***software***, which are computer parts you cannot see or touch that give instructions to hardware (e.g. computer programs and apps).[^2]
 
 ### How do other hardware components connect to the motherboard?
 

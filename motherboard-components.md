@@ -106,7 +106,10 @@ These are also referred to as *graphics cards*.
 You've reached of the end of this tutorial. I hope you've learned something new about motherboards or hardware!
 
 If you want to learn more about motherboards and/or their components, check out the following sources:
-- .
+- [Motherboard wikipedia article](https://en.wikipedia.org/wiki/Motherboard)
+- [10 Parts of a Motherboard and Their Function](https://turbofuture.com/computers/the-motherboard-components)
+- [Motherboard article from tutorialspont.com](https://www.tutorialsweb.com/computers/pc-motherboard.htm)
+
 
 [^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/
 [^2]: https://www.makeuseof.com/tag/short-guide-motherboard-parts/

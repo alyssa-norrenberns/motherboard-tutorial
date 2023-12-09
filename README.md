@@ -19,9 +19,9 @@ Tutorial by Alyssa Norrenberns
 
 ## References
 
-[^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/ 
+<!-- [^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/ 
   (used for pics + block quotes)
-[^2]: https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/
+[^2]: https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/ -->
 - https://www.tutorialspoint.com/computer_fundamentals/computer_motherboard.htm
 - https://www.partitionwizard.com/partitionmanager/motherboard-components.html
 - https://www.makeuseof.com/tag/short-guide-motherboard-parts/

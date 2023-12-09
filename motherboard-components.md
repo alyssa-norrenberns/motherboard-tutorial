@@ -57,8 +57,15 @@ Hard drives (both HDDs and SSDs) connect to the motherboard via specialized ***c
 
 ## Power Supply Unit
 
+![Power supply unit](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_power-supply-02.jpg "Power supply unit")
+
 **Here's a comprehensive definition:**
+
+> The power supply unit in a computer converts the power from the wall outlet to the type of power needed by the computer. It sends power through cables to the motherboard and other components.
+
 **How does this connect to the motherboard?**
+
+The Power Supply Unit connects to the motherboard via specialized ***connections*** called power connectors.[^2]
 
 ## Expansion Cards
 

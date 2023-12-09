@@ -9,7 +9,7 @@ Tutorial by Alyssa Norrenberns
 ## Table of Contents
 
 [**Motherboards for Beginners**](/motherboard.md)
-1. What is hardware?
+1. What is a motherboard?
 2. How do other hardware components connect to the motherboard?
 
 [**Motherboard components**](/motherboard-components.md)

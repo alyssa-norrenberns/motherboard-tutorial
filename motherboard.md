@@ -20,7 +20,7 @@ Essentially, the motherboard is a piece of computer ***hardware*** that is made 
 
 ## How do other hardware components connect to the motherboard?
 
-This tutorial will cover 3 different motherboard parts that connect external hardware components:
+This tutorial will cover 3 main motherboard parts that connect external hardware components:
 1. Slots
 2. Sockets
 3. Connections

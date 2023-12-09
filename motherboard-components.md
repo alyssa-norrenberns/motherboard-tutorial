@@ -65,7 +65,7 @@ Hard drives (both HDDs and SSDs) connect to the motherboard via specialized ***c
 
 **How does this connect to the motherboard?**
 
-The Power Supply Unit connects to the motherboard via specialized ***connections*** called power connectors.[^2]
+The power supply unit connects to the motherboard via specialized ***connections*** called power connectors.[^2]
 
 ## Expansion Cards
 

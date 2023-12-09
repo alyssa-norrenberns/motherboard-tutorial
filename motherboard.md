@@ -35,6 +35,8 @@ This tutorial will cover 3 different motherboard parts that connect external har
 
 > Connections provide power via your power supply to your component parts. These connections are often pin connections, some of which are placed in raised sockets (via ATX connectors), while others are bare.[^3]
 
+All of the hardware listed on the [Motherboard Components](/motherboard-components.md) page are connected to the motherboard via one of these methods.
+
 [^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/
 [^2]: https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/
 [^3]: https://www.makeuseof.com/tag/short-guide-motherboard-parts/

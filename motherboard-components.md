@@ -1,5 +1,7 @@
 # Motherboard components
 
+[Return to README](/README.md)
+
 As stated on the [Motherboards for Beginners](/motherboard.md) page, motherboards hold and connect other hardware components.
 
 **This page will cover the following components:**

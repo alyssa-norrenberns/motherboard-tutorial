@@ -23,7 +23,7 @@ As stated on the [Motherboards for Beginners](/motherboard.md) page, motherboard
 
 **How does this connect to the motherboard?**
 
-The CPU connects to the motherboard via a specialized *socket* called the CPU socket.[^1]
+The CPU connects to the motherboard via a specialized ***socket*** called the CPU socket.[^1]
 
 ## Random Access Memory (RAM)
 
@@ -37,7 +37,7 @@ The CPU connects to the motherboard via a specialized *socket* called the CPU so
 
 **How does this connect to the motherboard?**
 
-RAM connects to the motherboard via specialized *slots* called DIMM slots.[^2]
+RAM connects to the motherboard via specialized ***slots*** called DIMM slots.[^2]
 
 ## Hard Drive
 
@@ -53,7 +53,7 @@ HDDs and SSDs are the 2 most common types of hard drive. They have the same func
 
 **How does this connect to the motherboard?**
 
-Hard drives (both HDDs and SSDs) connect to the motherboard via specialized *connectors* called SATA connectors.[^2]
+Hard drives (both HDDs and SSDs) connect to the motherboard via specialized ***connectors*** called SATA connectors.[^2]
 
 ## Power Supply Unit
 

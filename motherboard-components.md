@@ -1,13 +1,13 @@
-## Motherboard components
+# Motherboard components
 
-add brief description regarding hardware components.
+As stated on the [Motherboards for Beginners](/motherboard.md) page, motherboards hold and connect other hardware components.
 
-**This tutorial will cover the following components:**
+**This page will cover the following components:**
 1. Central Processing Unit (CPU) 
 2. Random Access Memory (RAM) 
 3. TBD
 
-### Central Processing Unit (CPU)
+## Central Processing Unit (CPU)
 
 ![CPU](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_CPU-02.jpg "CPU")
 
@@ -21,7 +21,7 @@ add brief description regarding hardware components.
 
 Specify slot / socket / etc.
 
-### Random Access Memory (RAM)
+## Random Access Memory (RAM)
 
 ![RAM](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_RAM-02.jpg "RAM")
 
@@ -31,6 +31,6 @@ Specify slot / socket / etc.
 
 > RAM is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until it is needed.
 
-#### How does this connect to the motherboard?
+**How does this connect to the motherboard?**
 
 Specify slot / socket / etc.

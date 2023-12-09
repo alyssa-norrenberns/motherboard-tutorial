@@ -1,8 +1,14 @@
+# Motherboards for Beginners
+
+This page will include the following topics:
+1. What is a motherboard??
+2. How do other hardware components connect to the motherboard?
+
 ## What is a motherboard?
 
-![Dell Precision T3600 System Motherboard](https://upload.wikimedia.org/wikipedia/commons/b/b7/Computer-motherboard.jpg "Motherboard")
+![Desktop and laptop motherboards](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_Motherboard_v1-02.jpg "Desktop and laptop motherboards")
 
-*Pictured above: Dell Precision T3600 System Motherboard*
+*Pictured above: Sketch depiction of motherboards for desktops and laptops*
 
 **Here's a comprehensive definition:**
 
@@ -10,9 +16,25 @@
 
 Essentially, the motherboard is a piece of computer ***hardware*** that is made to hold and connect other computer hardware componenets.[^2]
 
-### How do hardware components connect to the motherboard?
+## How do other hardware components connect to the motherboard?
 
-get info from article describing slots / sockets / etc.
+This tutorial will cover 3 different motherboard parts that connect external hardware components:
+1. Slots
+2. Sockets
+3. Connections
+
+### Slots
+
+> Slots accommodate hardware components using raised ports. Depending on the age of your motherboard, the major slots present in a motherboard are AGP (Accelerated Graphics Port), PCI (Peripheral Component Interconnect), and RAM (Randon Access Memory).[^3]
+
+### Sockets
+
+> Sockets allow users to install component pieces directly into the motherboard. The CPU socket is the most notable example.[^3]
+
+### Connections 
+
+> Connections provide power via your power supply to your component parts. These connections are often pin connections, some of which are placed in raised sockets (via ATX connectors), while others are bare.[^3]
 
 [^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/
 [^2]: https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/
+[^3]: https://www.makeuseof.com/tag/short-guide-motherboard-parts/

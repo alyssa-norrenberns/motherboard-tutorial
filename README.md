@@ -8,11 +8,11 @@ Tutorial by Alyssa Norrenberns
 
 ## Table of Contents
 
-**What is a motherboard?**
+[**Motherboards for Beginners**](/motherboard.md)
 1. What is hardware?
 2. How do other hardware components connect to the motherboard?
 
-**Motherboard components**
+[**Motherboard components**](/motherboard-components.md)
 1. Central Processing Unit (CPU)
 2. Random Access Memory (RAM)
 3. TBD

@@ -69,8 +69,44 @@ The power supply unit connects to the motherboard via specialized ***connections
 
 ## Expansion Cards
 
-**Here's a comprehensive definition:**
+There are many types of expansion cards with varying purposes. Another name for them is PCI (peripheral component interconnect) cards. Since most motherboards have built-in features, expansion cards are usually optional add-ons to enhance computer performance capabilities.[^1]
+
 **How does this connect to the motherboard?**
+
+Expansion cards connect to the motherboard via specialized ***slots*** called expansion slots or PCI slots.[^1] [^2]
+
+**Below are some common expansion card types.**
+
+### Video card
+
+![Video card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_video-card-02.jpg "Video card")
+
+**Here's a comprehensive definition:**
+
+> The video card is responsible for what you see on the monitor. Most computers have a GPU (graphics processing unit) built into the motherboard instead of having a separate video card. If you like playing graphics-intensive games, you can add a faster video card to one of the expansion slots to get better performance.[^1]
+
+These are also referred to as *graphics cards*.
+
+### Sound card
+
+**Here's a comprehensive definition:**
+
+> The sound card—also called an audio card—is responsible for what you hear in the speakers or headphones. Most motherboards have integrated sound, but you can upgrade to a dedicated sound card for higher-quality sound.[^1]
+
+### Network card
+
+![Network card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_wifi-card-02.jpg "Network card")
+
+**Here's a comprehensive definition:**
+
+> The network card allows your computer to communicate over a network and access the Internet. It can either connect with an Ethernet cable or through a wireless connection (often called Wi-Fi). Many motherboards have built-in network connections.[^1]
+
+## That's all folks!
+
+You've reached of the end of this tutorial. I hope you've learned something new about motherboards or hardware!
+
+If you want to learn more about motherboards and/or their components, check out the following sources:
+- .
 
 [^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/
 [^2]: https://www.makeuseof.com/tag/short-guide-motherboard-parts/

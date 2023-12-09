@@ -7,7 +7,9 @@ As stated on the [Motherboards for Beginners](/motherboard.md) page, motherboard
 **This page will cover the following components:**
 1. Central Processing Unit (CPU) 
 2. Random Access Memory (RAM) 
-3. TBD
+3. Hard Drive
+4. Power Supply Unit
+5. Expansion Cards
 
 ## Central Processing Unit (CPU)
 
@@ -17,11 +19,11 @@ As stated on the [Motherboards for Beginners](/motherboard.md) page, motherboard
 
 **Here's a comprehensive definition:**
 
-> The central processing unit (CPU), also called a processor, is located inside the computer case on the motherboard. It is sometimes called the brain of the computer, and its job is to carry out commands.
+> The central processing unit (CPU), also called a processor, is located inside the computer case on the motherboard. It is sometimes called the brain of the computer, and its job is to carry out commands.[^1]
 
 **How does this connect to the motherboard?**
 
-Specify slot / socket / etc.
+The CPU connects to the motherboard via a specialized *socket* called the CPU socket.[^1]
 
 ## Random Access Memory (RAM)
 
@@ -31,8 +33,38 @@ Specify slot / socket / etc.
 
 **Here's a comprehensive definition:**
 
-> RAM is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until it is needed.
+> RAM is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until it is needed.[^1]
 
 **How does this connect to the motherboard?**
 
-Specify slot / socket / etc.
+RAM connects to the motherboard via specialized *slots* called DIMM slots.[^2]
+
+## Hard Drive
+
+![Hard drive](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_HardDrive-both-02.jpg "Hard drive")
+
+*Pictured above: Sketch depiction of a hard disk drive (HDD) next to a solid-state drive (SSD)*
+
+**Here's a comprehensive definition:**
+
+> The hard drive is where your software, documents, and other files are stored. The hard drive is long-term storage, which means the data is still saved even if you turn the computer off or unplug it.
+
+HDDs and SSDs are the 2 most common types of hard drive. They have the same function but differ in design.[^3] If you want to learn more, [read this article about types of hard drives](https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/#:~:text=Currently%2C%20there%20are%20two%20common,Solid%20State%20Drive%20(SSD)).
+
+**How does this connect to the motherboard?**
+
+Hard drives (both HDDs and SSDs) connect to the motherboard via specialized *connectors* called SATA connectors.[^2]
+
+## Power Supply Unit
+
+**Here's a comprehensive definition:**
+**How does this connect to the motherboard?**
+
+## Expansion Cards
+
+**Here's a comprehensive definition:**
+**How does this connect to the motherboard?**
+
+[^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/
+[^2]: https://www.makeuseof.com/tag/short-guide-motherboard-parts/
+[^3]: https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/#:~:text=Currently%2C%20there%20are%20two%20common,Solid%20State%20Drive%20(SSD)

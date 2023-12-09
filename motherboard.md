@@ -23,6 +23,8 @@ This tutorial will cover 3 different motherboard parts that connect external har
 2. Sockets
 3. Connections
 
+All of the hardware listed on the [Motherboard Components](/motherboard-components.md) page are connected to the motherboard via one of these parts.
+
 ### Slots
 
 > Slots accommodate hardware components using raised ports. Depending on the age of your motherboard, the major slots present in a motherboard are AGP (Accelerated Graphics Port), PCI (Peripheral Component Interconnect), and RAM (Randon Access Memory).[^3]
@@ -34,8 +36,6 @@ This tutorial will cover 3 different motherboard parts that connect external har
 ### Connections 
 
 > Connections provide power via your power supply to your component parts. These connections are often pin connections, some of which are placed in raised sockets (via ATX connectors), while others are bare.[^3]
-
-All of the hardware listed on the [Motherboard Components](/motherboard-components.md) page are connected to the motherboard via one of these methods.
 
 [^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/
 [^2]: https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/

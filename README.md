@@ -15,4 +15,6 @@ Tutorial by Alyssa Norrenberns
 [**Motherboard components**](/motherboard-components.md)
 1. Central Processing Unit (CPU)
 2. Random Access Memory (RAM)
-3. TBD
+3. Hard Drive
+4. Power Supply Unit
+5. Expansion Cards

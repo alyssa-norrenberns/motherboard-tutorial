@@ -25,17 +25,13 @@ This tutorial will cover 3 main motherboard parts that connect external hardware
 2. Sockets
 3. Connections
 
-### Slots
+### Slots, sockets, &  connections explained
 
-> Slots accommodate hardware components using raised ports. Depending on the age of your motherboard, the major slots present in a motherboard are AGP (Accelerated Graphics Port), PCI (Peripheral Component Interconnect), and RAM (Randon Access Memory).[^3]
-
-### Sockets
-
-> Sockets allow users to install component pieces directly into the motherboard. The CPU socket is the most notable example.[^3]
-
-### Connections 
-
-> Connections provide power via your power supply to your component parts. These connections are often pin connections, some of which are placed in raised sockets (via ATX connectors), while others are bare.[^3]
+| Connector type    | How it works |
+| -------- | ------- |
+| Slots  | Slots accommodate hardware components using raised ports. Depending on the age of your motherboard, the major slots present in a motherboard are AGP (Accelerated Graphics Port), PCI (Peripheral Component Interconnect), and RAM (Randon Access Memory).[^3] |
+| Sockets | Sockets allow users to install component pieces directly into the motherboard. The CPU socket is the most notable example.[^3] |
+| Connections | Connections provide power via your power supply to your component parts. These connections are often pin connections, some of which are placed in raised sockets (via ATX connectors), while others are bare.[^3] |
 
 ## What's next?
 

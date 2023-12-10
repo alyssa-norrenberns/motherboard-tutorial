@@ -59,6 +59,9 @@ Hard drives (both HDDs and SSDs) connect to the motherboard via specialized ***c
 
 ![Power supply unit](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_power-supply-02.jpg "Power supply unit")
 
+*Pictured above: Sketch depiction of a power supply unit*
+
+
 **Here's a comprehensive definition:**
 
 > The power supply unit in a computer converts the power from the wall outlet to the type of power needed by the computer. It sends power through cables to the motherboard and other components.
@@ -81,6 +84,9 @@ Expansion cards connect to the motherboard via specialized ***slots*** called ex
 
 ![Video card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_video-card-02.jpg "Video card")
 
+*Pictured above: Sketch depiction of a video card*
+
+
 **Here's a comprehensive definition:**
 
 > The video card is responsible for what you see on the monitor. Most computers have a GPU (graphics processing unit) built into the motherboard instead of having a separate video card. If you like playing graphics-intensive games, you can add a faster video card to one of the expansion slots to get better performance.[^1]
@@ -89,6 +95,10 @@ These are also referred to as *graphics cards*.
 
 ### Sound card
 
+![Sound card](https://cdn4.iconfinder.com/data/icons/modern-technologies/32/technology_sound_card_chip-512.png "Sound card")
+
+*Pictured above: Sketch depiction of a sound card*
+
 **Here's a comprehensive definition:**
 
 > The sound card—also called an audio card—is responsible for what you hear in the speakers or headphones. Most motherboards have integrated sound, but you can upgrade to a dedicated sound card for higher-quality sound.[^1]
@@ -96,6 +106,8 @@ These are also referred to as *graphics cards*.
 ### Network card
 
 ![Network card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_wifi-card-02.jpg "Network card")
+
+*Pictured above: Sketch depiction of a network card*
 
 **Here's a comprehensive definition:**
 

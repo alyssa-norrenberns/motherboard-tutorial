@@ -72,6 +72,10 @@ The power supply unit connects to the motherboard via specialized ***connections
 
 ## Expansion Cards
 
+![Expansion card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_video-card-02.jpg "Expansion card")
+
+*Pictured above: Sketch depiction of an expansion card (there are many types, this one is a video card)*
+
 There are many types of expansion cards with varying purposes. Another name for them is PCI (peripheral component interconnect) cards. Since most motherboards have built-in features, expansion cards are usually optional add-ons to enhance computer performance capabilities.[^1]
 
 **How does this connect to the motherboard?**
@@ -82,11 +86,6 @@ Expansion cards connect to the motherboard via specialized ***slots*** called ex
 
 ### Video card
 
-![Video card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_video-card-02.jpg "Video card")
-
-*Pictured above: Sketch depiction of a video card*
-
-
 **Here's a comprehensive definition:**
 
 > The video card is responsible for what you see on the monitor. Most computers have a GPU (graphics processing unit) built into the motherboard instead of having a separate video card. If you like playing graphics-intensive games, you can add a faster video card to one of the expansion slots to get better performance.[^1]
@@ -95,9 +94,9 @@ These are also referred to as *graphics cards*.
 
 ### Sound card
 
-![Sound card](https://cdn4.iconfinder.com/data/icons/modern-technologies/32/technology_sound_card_chip-512.png "Sound card")
+<!-- ![Sound card](https://cdn4.iconfinder.com/data/icons/modern-technologies/32/technology_sound_card_chip-512.png "Sound card")
 
-*Pictured above: Sketch depiction of a sound card*
+*Pictured above: Sketch depiction of a sound card* -->
 
 **Here's a comprehensive definition:**
 
@@ -105,9 +104,9 @@ These are also referred to as *graphics cards*.
 
 ### Network card
 
-![Network card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_wifi-card-02.jpg "Network card")
+<!-- ![Network card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_wifi-card-02.jpg "Network card")
 
-*Pictured above: Sketch depiction of a network card*
+*Pictured above: Sketch depiction of a network card* -->
 
 **Here's a comprehensive definition:**
 

@@ -74,7 +74,7 @@ The power supply unit connects to the motherboard via specialized ***connections
 
 ![Expansion card](https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_video-card-02.jpg "Expansion card")
 
-*Pictured above: Sketch depiction of an expansion card (this is a video card)*
+*Pictured above: Sketch depiction of a video card, one type of expansion card*
 
 There are many types of expansion cards with varying purposes. Another name for them is PCI (peripheral component interconnect) cards. Since most motherboards have built-in features, expansion cards are usually optional add-ons to enhance computer performance capabilities.[^1]
 

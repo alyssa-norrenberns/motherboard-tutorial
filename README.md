@@ -8,7 +8,7 @@ Tutorial by Alyssa Norrenberns
 
 ## Purpose and Overview
 
-As someone that's new to learning about computer hardware and system componenets, I made this tutorial to share some foundational information in an easily digestible way (AKA answering the questions I had while researching this topic).
+As someone that's new to learning about computer hardware, I made this tutorial to share some foundational information in an easily digestible way (AKA answering the questions I had while researching this topic).
 
 This tutorial has 2 parts: [Motherboards for Beginners](/motherboard.md) and [Motherboard Components](/motherboard-components.md). I suggest following the order outlined in the table of contents for ease of reading.
 

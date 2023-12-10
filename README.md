@@ -10,7 +10,7 @@ Tutorial by Alyssa Norrenberns
 
 As someone that's new to learning about computer hardware, I made this tutorial to share some foundational information in an easily digestible way (AKA answering the questions I had while researching this topic).
 
-This tutorial has 2 parts: [Motherboards for Beginners](/motherboard.md) and [Motherboard Components](/motherboard-components.md). I suggest following the order outlined in the table of contents for ease of reading.
+This tutorial has 2 parts: [Motherboards for Beginners](/motherboard.md) and [Motherboard Components](/motherboard-hardware.md). I suggest following the order outlined in the table of contents for ease of reading.
 
 Have fun learning!
 
@@ -20,7 +20,7 @@ Have fun learning!
 1. What is a motherboard?
 2. How do other hardware components connect to the motherboard?
 
-[**Motherboard Components**](/motherboard-components.md)
+[**Hardware Components on the Motherboard**](/motherboard-hardware.md)
 1. Central Processing Unit (CPU)
 2. Random Access Memory (RAM)
 3. Hard Drive

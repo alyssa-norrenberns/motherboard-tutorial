@@ -1,4 +1,4 @@
-# Motherboard components
+# Hardware Components on the Motherbaord
 
 [Return to README](/README.md)
 

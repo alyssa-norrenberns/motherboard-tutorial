@@ -35,7 +35,7 @@ This tutorial will cover 3 main motherboard parts that connect external hardware
 
 ## What's next?
 
-Learn about the hardware connected to the motherboard via these parts on the [Motherboard Components](/motherboard-components.md) page.
+Learn about the hardware connected to the motherboard via these parts on the [Motherboard Components](/motherboard-hardware.md) page.
 
 [^1]: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/
 [^2]: https://edu.gcfglobal.org/en/computer-science/hardware-and-software/1/
